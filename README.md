@@ -19,3 +19,4 @@
 | Year 1 - Term 1 | [Space Invaders](https://github.com/LukieD4/SpaceInvadies) | Python (+PyGame) |
 | Year 1 - Term 3 | [JOGO Repository](https://github.com/LukieD4/Jogo-Website) or [JOGO Website](https://jogo-website.onrender.com) | Web Development |
 | Year 2 - Term 1 | [Object Oriented Analysis and Design](https://github.com/COM5020-Object-Oriented-Analysis/Object-Oriented-Analysis-and-Design) | UML and Project Management |
+| Year 2 - Term 1 | [Algorithms And Data Structures](https://github.com/LukieD4/BlockFlix) | C++ applying Big O' Notation |
